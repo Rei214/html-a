@@ -1,2 +1,54 @@
-# html-a
-html files
+!DOCTYPE html>
+<html>
+ <head>
+  <title> All about Me </title>
+ </head>
+ <body>
+ <h1> Hello My Name Is <em>Reighart B. Maglatang</em> I am in 10th grade Honesty </h1>
+  <p> I am 15 years old and my birthday is <strong> February 16 2010 </strong> </p>
+  <p> I live in <strong> Caut LaPaz Tarlac </strong> </p>
+  <p> I am currently a student of <strong> Great Eastern Institute </strong> </p>
+ 
+<hr>
+
+ <h2> These are Goals I want to achieve in life </h2>
+ <ul>
+  <li> To<strong> graduate </strong>with high honors </li>
+  <li> To one day <strong> become an Accountant </strong> </li>
+  <li> To learn <strong> Coding </strong> Better </li>
+ </ul>
+ <br>
+ 
+ <hr>
+ 
+ <h2> My favorite quote </h2>
+ 
+ <p>I believe in the saying <strong>"Educating the mind without educating the heart is no education at all"</strong> – Aristotle.</p>
+  <p> I like this quote as I believe we should not only use our minds but also our hearts when learning</p>
+
+<hr>
+
+ <h3> Here are hobbies that I love </h3>
+ <ul>
+  <li> I love playing <strong> chess </strong> </li>
+  <li> I love solving <strong> math equations </strong> </li>
+  <li> I love playing <strong> video games </strong> </li>
+  <li> I love <strong> coding </strong></li>
+ </ul>
+ 
+ <hr>
+
+ <h3> Why do I exactly like my interests? </h3>
+ 
+<p>I love my interests becuase they keep me entertained and they also make me feel happy </p>
+<p> I love to play <strong>chess</strong> because it not only serves as entertainment but also helps me learn how to <em>strategize</em>. </p>
+<p> I used to dislike <strong>math</strong> because it felt difficult. But over time I decided to focus on the subject and it turns out I really <em>enjoy</em> it</p>
+<p> <strong>Video games</strong> have always been my go to whenever I feel sad. When Im playing I feel like Im away from the world and it helps me <em>relax</em>. </p>
+<p> Recently I tried <strong>coding</strong> for the first time in my Computer 10 class. I was instantly fascinated. I dug deeper into the topic and now Im <em>addicted to coding</em>. </p>
+
+<p> That is all to know about me! Thank you very much </p>
+ 
+
+</body>
+</html>
+ 
